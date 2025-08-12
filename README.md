@@ -34,7 +34,7 @@
       <p>Create custom UPI payment links in seconds — easy sharing, instant payments.</p>
       <p style="font-size: 0.9em; color: #bbb;">Ideal for freelancers, small businesses, and instant payments.</p>
       <p align="center">
-        <a href="https://upilink-g.vercel.app/" style="color:#A020F0; font-weight:bold;">🔗 Visit</a>
+        <a href="http://upilinkgenerator.vercel.app/" style="color:#A020F0; font-weight:bold;">🔗 Visit</a>
       </p>
     </td>
   </tr>
