@@ -40,7 +40,7 @@
   </tr>
 </table>
 
-# 🎯 Tech Stack & Skills
+# 🔧 Tech Arsenal
 
 <div align="center">
 
