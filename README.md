@@ -7,14 +7,14 @@
 
 - 🌱 I’m currently learning **AI/ML**
   
-- 💬 Ask me about **AI/ML AI/ML, Python (Model Training & Testing, Flask ,TensorFlow, PyTorch)**
+- 💬 Ask me about **AI/ML, Python (Model Training & Testing, Flask ,TensorFlow, PyTorch)**
   
 - 📫 Reach me at **KrishMhatre34@gmail.com**
   
 - ⚡ Fun fact: **I turn coffee into code and bugs into features** 😄
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=700&color=9D4EDD&center=true&vCenter=true&width=600&lines=I+am+T2-Astra;Building+dreams+in+code.;Where+logic+meets+creativity.;Every+bug+is+a+hidden+quest.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=700&color=9D4EDD&center=true&vCenter=true&width=500&lines=I+am+T2-Astra;Building+dreams+in+code.;Where+logic+meets+creativity.;Every+bug+is+a+hidden+quest.">
 </p>
 
 ## 🛰 Mission Highlights
