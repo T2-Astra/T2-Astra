@@ -2,7 +2,7 @@
 <h1 align="center">🌌 Greetings, Earthlings! Meet T2-Astra 👨🏻‍🚀💻</h1>
 
 <p align="center"><i>“While others debug ‘Hello World’, I’m busy rewriting the rules of logic — one flawless script at a time.”</i></p>
-<img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 - 🔭 I’m currently working on :)
 
 - 🌱 I’m currently learning **AI/ML**
