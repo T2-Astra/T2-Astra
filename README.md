@@ -41,7 +41,8 @@
     <td colspan="2" style="border:1px solid #A020F0; border-radius:10px; padding:40px; background-color:#0e0e12; color:white; text-align:center; vertical-align:middle;">
      <div align="center" style="text-align:center;">
   <h3>🌟 My Portfolio</h3>
-  <p>Showcasing my projects, skills, and creative work — where code meets design.</p>
+  <p>Showcasing my projects, skills, and creative work — where code meets design</p>
+    <p>Visit my portfolio: T2-Astra.is-a.dev — AI/ML Engineering projects and skills by Krish Mhatre or else Click Visit Portfolio</p>
   <p>Explore my development journey, tech stack, and featured creations.</p>
   <a href="https://t2-astra.is-a.dev/" style="color:#A020F0; font-weight:bold; text-decoration:none;">🚀 Visit Portfolio</a>
 </div>
