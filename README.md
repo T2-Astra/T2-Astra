@@ -133,3 +133,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
 </div>
+
+# 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/T2-Astra/T2-Astra/output/snake.svg)
