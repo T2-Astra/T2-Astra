@@ -49,12 +49,14 @@
     <td style="border:1px solid #A020F0; border-radius:10px; padding:15px; background:radial-gradient(circle at top left, #0e0e12, #1a1a2e); color:white; text-align:center;" width="50%">
       <h3>🌟 My Portfolio</h3>
       <p>Showcasing my projects, skills, and creative work — where code meets design.</p>
-      <p>Visit my portfolio: T2-Astra.is-a.dev — AI/ML Engineering projects and skills by Krish Mhatre or else click below.</p>
-      <p>Explore my development journey, tech stack, and featured creations.</p>
-      <a href="https://t2-astra.is-a.dev/" style="color:#A020F0; font-weight:bold; text-decoration:none;">🚀 Visit Portfolio</a>
+      <p style="font-size: 0.9em; color: #bbb;">Visit my portfolio: T2-Astra.is-a.dev — AI/ML projects & skills by Krish Mhatre.</p>
+      <p align="center">
+        <a href="https://t2-astra.is-a.dev/" style="color:#A020F0; font-weight:bold; text-decoration:none;">🚀 Visit Portfolio</a>
+      </p>
     </td>
   </tr>
 </table>
+
 
 
 # 🔧 Tech Arsenal
