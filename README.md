@@ -56,16 +56,25 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="border:1px solid #A020F0; border-radius:10px; padding:20px; background:linear-gradient(135deg, #0e0e12, #1a1a2e); color:white; text-align:center;">
+    <td style="border:1px solid #A020F0; border-radius:10px; padding:15px; background:linear-gradient(135deg, #0e0e12, #1a1a2e); color:white; text-align:center;" width="50%">
       <h3>🎬 MediaCraft</h3>
       <p>Beautiful graphics made simple. Upload your content — images, videos, documents — and create stunning visuals with no design skills required!</p>
       <p style="font-size: 0.9em; color: #bbb;">Supports JPG, PNG, GIF, MP4, MOV, PDF, PSD, AI, and more.</p>
       <p align="center">
-        <a href="#" style="color:#A020F0; font-weight:bold; text-decoration:none;">🎨 Explore MediaCraft</a>
+        <a href="#" style="color:#A020F0; font-weight:bold;">🎨 Explore MediaCraft</a>
+      </p>
+    </td>
+    <td style="border:1px solid #A020F0; border-radius:10px; padding:15px; background-color:#0e0e12; color:white; text-align:center;" width="50%">
+      <h3>🔧 More Coming Soon</h3>
+      <p>Stay tuned for more exciting projects and tools!</p>
+      <p style="font-size: 0.9em; color: #bbb;">Keep checking back to explore new features and utilities.</p>
+      <p align="center">
+        <a href="#" style="color:#A020F0; font-weight:bold;">✨ Learn More</a>
       </p>
     </td>
   </tr>
 </table>
+
 
 
 ## 🔧 Tech Arsenal
