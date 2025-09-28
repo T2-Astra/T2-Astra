@@ -121,13 +121,18 @@
 <div align="center">
 
 ## 🛠️ Tools & Development Environment
+
+### ⚡ Core Development Tools
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🤖 AI-Powered Tools
 ![GPT](https://img.shields.io/badge/GPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Cursor AI](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Kiro.dev](https://img.shields.io/badge/Kiro.dev-FF6B6B?style=for-the-badge&logo=devdotto&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic&logoColor=white)
+
 
 
 </div>
