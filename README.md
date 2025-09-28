@@ -61,7 +61,7 @@
       <p>Beautiful graphics made simple. Upload your content — images, videos, documents — and create stunning visuals with no design skills required!</p>
       <p style="font-size: 0.9em; color: #bbb;">Supports JPG, PNG, GIF, MP4, MOV, PDF, PSD, AI, and more.</p>
       <p align="center">
-        <a href="#" style="color:#A020F0; font-weight:bold;">🎨 Explore MediaCraft</a>
+        <a href="https://mediacraft.onrender.com/" style="color:#A020F0; font-weight:bold;">🎨 Explore MediaCraft</a>
       </p>
     </td>
     <td style="border:1px solid #A020F0; border-radius:10px; padding:15px; background-color:#0e0e12; color:white; text-align:center;" width="50%">
