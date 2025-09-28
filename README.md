@@ -157,3 +157,14 @@
 # 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/T2-Astra/T2-Astra/output/snake.svg)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=T2-Astra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T2-Astra&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
