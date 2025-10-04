@@ -161,8 +161,9 @@
 
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=7DF9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Full-Stack+Developer;Building+Future+with+Code+%26+Creativity;Exploring+ML%2C+NLP%2C+and+Beyond+🚀;Turning+Ideas+into+Reality+💡" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=7DF9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Full-Stack+Developer;Building+Future+with+Code+%26+Creativity;Exploring+ML%2C+NLP%2C+and+Beyond+🚀;Turning+Ideas+into+Reality+💡" alt="Typing SVG" />
+</p>
+
 
 
