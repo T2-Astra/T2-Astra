@@ -155,4 +155,11 @@
 
 </div>
 
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=T2-Astra&theme=tokyo-night&hide_border=true" alt="Krish's Activity Graph" />
+
+</div>
+
+
 
