@@ -47,16 +47,20 @@
       <p>Professional-grade background patterns and gradients.</p>
       <p style="font-size: 0.9em; color: #bbb;">Easily copy the code and seamlessly integrate it into your projects.</p>
       <p align="center">
-        <a href="https://patter-nix.vercel.app/" style="color:#A020F0; font-weight:bold;">🎨 Explore</a>
-      </p>
+<a href="https://patter-nix.vercel.app/">
+<img src="https://img.shields.io/badge/🔗_Visit-A020F0?style=for-the-badge&logoColor=white" />
+</a>
+</p>
     </td>
     <td style="border:1px solid #A020F0; border-radius:10px; padding:15px; background:radial-gradient(circle at top left, #0e0e12, #1a1a2e); color:white; text-align:center;" width="50%">
       <h3>🌟 My Portfolio</h3>
       <p>Showcasing my projects, skills, and creative work — where code meets design.</p>
       <p style="font-size: 0.9em; color: #bbb;">Visit my portfolio: T2-Astra.is-a.dev — AI/ML projects & skills by Krish Mhatre.</p>
       <p align="center">
-        <a href="https://t2-astra.is-a.dev/" style="color:#A020F0; font-weight:bold; text-decoration:none;">🚀 Visit Portfolio</a>
-      </p>
+<a href="https://t2-astra.is-a.dev/">
+<img src="https://img.shields.io/badge/🔗_Explore-A020F0?style=for-the-badge&logoColor=white" />
+</a>
+</p>
     </td>
   </tr>
   <tr>
@@ -65,8 +69,10 @@
       <p>Beautiful graphics made simple. Upload your content — images, videos, documents — and create stunning visuals with no design skills required!</p>
       <p style="font-size: 0.9em; color: #bbb;">Supports JPG, PNG, GIF, MP4, MOV, PDF, PSD, AI, and more.</p>
       <p align="center">
-        <a href="https://mediacraft.onrender.com/" style="color:#A020F0; font-weight:bold;">🎨 Explore MediaCraft</a>
-      </p>
+<a href="https://mediacraft.onrender.com/">
+<img src="https://img.shields.io/badge/🔗_Visit-A020F0?style=for-the-badge&logoColor=white" />
+</a>
+</p>
     </td>
     <td style="border:1px solid #A020F0; border-radius:10px; padding:15px; background-color:#0e0e12; color:white; text-align:center;" width="50%">
       <h3>🔧 More Coming Soon</h3>
