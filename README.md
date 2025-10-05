@@ -79,8 +79,10 @@
       <p>Stay tuned for more exciting projects and tools!</p>
       <p style="font-size: 0.9em; color: #bbb;">Keep checking back to explore new features and utilities.</p>
       <p align="center">
-        <a href="#" style="color:#A020F0; font-weight:bold;">✨ Learn More</a>
-      </p>
+<a href="#">
+<img src="https://img.shields.io/badge/🔗_Let Me Cook-A020F0?style=for-the-badge&logoColor=white" />
+</a>
+</p>
     </td>
   </tr>
 </table>
