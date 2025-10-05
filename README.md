@@ -159,7 +159,16 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=T2-Astra&theme=tokyo-night&hide_border=true" alt="Krish's Activity Graph" />
 
+  <!-- 🔹 Profile Views Counter -->
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=T2-Astra&label=Profile%20Views&color=7DF9FF&style=for-the-badge" alt="Profile Views" />
+
+  <!-- 🏆 GitHub Trophies -->
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=T2-Astra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+
 </div>
+
 
 
 
