@@ -75,6 +75,17 @@
   </tr>
 </table>
 
+<div align="center">
+
+```
+🎯 Mission Statement:
+"Building tools that solve real problems and make life easier"
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
 
 
 ## 🔧 Tech Arsenal
