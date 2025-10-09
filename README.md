@@ -188,7 +188,7 @@
 
   <!-- 🏆 GitHub Trophies -->
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=T2-Astra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=T2-Astra&theme=matrix&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
