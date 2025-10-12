@@ -17,75 +17,126 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=700&color=9D4EDD&center=true&vCenter=true&width=500&lines=I+am+T2-Astra;Building+dreams+in+code.;Where+logic+meets+creativity.;Every+bug+is+a+hidden+quest.">
 </p>
 
-## 🛰 Mission Highlights
+# 🛰 Mission Highlights
+
+<div align="center">
+
 <table>
   <tr>
-    <td style="border:1px solid #A020F0; border-radius:10px; padding:15px; background-color:#0e0e12; color:white; text-align:center;" width="50%">
-      <h3>📧 1TimeMail</h3>
-      <p>Generate disposable email addresses instantly — secure, fast, and private.</p>
-      <p style="font-size: 0.9em; color: #bbb;">Perfect for quick sign-ups and avoiding spam in your inbox.</p>
-     <p align="center">
-<a href="https://1timemail.org/">
-<img src="https://img.shields.io/badge/🔗_Open-A020F0?style=for-the-badge&logoColor=white" />
-</a>
-</p>
+    <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 50%, #16213e 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
+      <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">📧 1TimeMail</h3>
+      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Generate disposable email addresses instantly — <strong>secure</strong>, <strong>fast</strong>, and <strong>private</strong>.</p>
+      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">Perfect for quick sign-ups and avoiding spam in your inbox.</p>
+      <p align="center" style="margin-top: 20px;">
+        <a href="https://1timemail.org/">
+          <img src="https://img.shields.io/badge/🔗_Open_Now-FF6B35?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=FF6B35" alt="Open 1TimeMail" />
+        </a>
+      </p>
     </td>
-    <td style="border:1px solid #A020F0; border-radius:10px; padding:15px; background-color:#0e0e12; color:white; text-align:center;" width="50%">
-      <h3>💸 UpiLink-Generator</h3>
-      <p>Create custom UPI payment links in seconds — easy sharing, instant payments.</p>
-      <p style="font-size: 0.9em; color: #bbb;">Ideal for freelancers, small businesses, and instant payments.</p>
-      <p align="center">
-<a href="http://upilinkgenerator.vercel.app/">
-<img src="https://img.shields.io/badge/🔗_Visit-A020F0?style=for-the-badge&logoColor=white" />
-</a>
-</p>
-    </td>
-  </tr>
-  <tr>
-    <td style="border:1px solid #A020F0; border-radius:10px; padding:15px; background:linear-gradient(135deg, #0e0e12, #1a1a2e); color:white; text-align:center;" width="50%">
-      <h3>🎨 Patter-Nix</h3>
-      <p>Professional-grade background patterns and gradients.</p>
-      <p style="font-size: 0.9em; color: #bbb;">Easily copy the code and seamlessly integrate it into your projects.</p>
-      <p align="center">
-<a href="https://patter-nix.vercel.app/">
-<img src="https://img.shields.io/badge/🔗_Visit-A020F0?style=for-the-badge&logoColor=white" />
-</a>
-</p>
-    </td>
-    <td style="border:1px solid #A020F0; border-radius:10px; padding:15px; background:radial-gradient(circle at top left, #0e0e12, #1a1a2e); color:white; text-align:center;" width="50%">
-      <h3>🌟 My Portfolio</h3>
-      <p>Showcasing my projects, skills, and creative work — where code meets design.</p>
-      <p style="font-size: 0.9em; color: #bbb;">Visit my portfolio: T2-Astra.is-a.dev — AI/ML projects & skills by Krish Mhatre.</p>
-      <p align="center">
-<a href="https://t2-astra.is-a.dev/">
-<img src="https://img.shields.io/badge/🔗_Explore-A020F0?style=for-the-badge&logoColor=white" />
-</a>
-</p>
+    <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 50%, #16213e 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
+      <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">💸 UpiLink-Generator</h3>
+      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Create custom UPI payment links in seconds — <strong>easy sharing</strong>, <strong>instant payments</strong>.</p>
+      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">Ideal for freelancers, small businesses, and instant payments.</p>
+      <p align="center" style="margin-top: 20px;">
+        <a href="http://upilinkgenerator.vercel.app/">
+          <img src="https://img.shields.io/badge/🔗_Visit_Site-00D4AA?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=00D4AA" alt="Visit UpiLink Generator" />
+        </a>
+      </p>
     </td>
   </tr>
   <tr>
-    <td style="border:1px solid #A020F0; border-radius:10px; padding:15px; background:linear-gradient(135deg, #0e0e12, #1a1a2e); color:white; text-align:center;" width="50%">
-      <h3>🎬 MediaCraft</h3>
-      <p>Beautiful graphics made simple. Upload your content — images, videos, documents — and create stunning visuals with no design skills required!</p>
-      <p style="font-size: 0.9em; color: #bbb;">Supports JPG, PNG, GIF, MP4, MOV, PDF, PSD, AI, and more.</p>
-      <p align="center">
-<a href="https://mediacraft.onrender.com/">
-<img src="https://img.shields.io/badge/🔗_Visit-A020F0?style=for-the-badge&logoColor=white" />
-</a>
-</p>
+    <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0e0e12 0%, #1a1a2e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
+      <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🎨 Patter-Nix</h3>
+      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;"><strong>Professional-grade</strong> background patterns and gradients.</p>
+      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">Easily copy the code and seamlessly integrate it into your projects.</p>
+      <p align="center" style="margin-top: 20px;">
+        <a href="https://patter-nix.vercel.app/">
+          <img src="https://img.shields.io/badge/🔗_Explore_Now-FF3D71?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=FF3D71" alt="Visit Patter-Nix" />
+        </a>
+      </p>
     </td>
-    <td style="border:1px solid #A020F0; border-radius:10px; padding:15px; background-color:#0e0e12; color:white; text-align:center;" width="50%">
-      <h3>🔧 More Coming Soon</h3>
-      <p>Stay tuned for more exciting projects and tools!</p>
-      <p style="font-size: 0.9em; color: #bbb;">Keep checking back to explore new features and utilities.</p>
-      <p align="center">
-<a href="#">
-<img src="https://img.shields.io/badge/🔗_Let Me Cook-A020F0?style=for-the-badge&logoColor=white" />
-</a>
-</p>
+    <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: radial-gradient(circle at top left, #0e0e12 0%, #1a1a2e 50%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
+      <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🌟 My Portfolio</h3>
+      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Showcasing my projects, skills, and creative work — where <strong>code meets design</strong>.</p>
+      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">Visit my portfolio: T2-Astra.is-a.dev — AI/ML projects & skills by Krish Mhatre.</p>
+      <p align="center" style="margin-top: 20px;">
+        <a href="https://t2-astra.is-a.dev/">
+          <img src="https://img.shields.io/badge/🔗_View_Portfolio-FFD23F?style=for-the-badge&logoColor=black&labelColor=1a1a2e&color=FFD23F" alt="Explore Portfolio" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0e0e12 0%, #1a1a2e 30%, #16213e 70%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
+      <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🎬 MediaCraft</h3>
+      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;"><strong>Beautiful graphics made simple.</strong> Upload your content — images, videos, documents — and create stunning visuals with no design skills required!</p>
+      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">
+        <span style="color: #A020F0;">✨ Supports:</span> JPG, PNG, GIF, MP4, MOV, PDF, PSD, AI, and more.
+      </p>
+      <p align="center" style="margin-top: 20px;">
+        <a href="https://mediacraft.onrender.com/">
+          <img src="https://img.shields.io/badge/🌐_Launch_App-8B5CF6?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=8B5CF6" alt="Visit MediaCraft" />
+        </a>
+      </p>
+    </td>
+    <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0e0e12 0%, #1a1a2e 30%, #16213e 70%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
+      <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🧾 FlexiPDF</h3>
+      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;"><strong>Professional PDF Tools</strong> — Convert images to PDF and compress files with precision. Built for professionals who demand quality and efficiency.</p>
+      <div style="margin: 15px 0; text-align: left; display: inline-block;">
+        <p style="color: #bbb; font-size: 0.95em; margin: 5px 0;">
+          <span style="color: #A020F0;">🖼️</span> Image to PDF Converter<br>
+          <span style="color: #A020F0;">📄</span> PDF Compressor<br>
+          <span style="color: #A020F0;">🧩</span> PDF to PNG Converter
+        </p>
+      </div>
+      <p align="center" style="margin-top: 20px;">
+        <a href="https://flexipdf-m7e1.onrender.com/">
+          <img src="https://img.shields.io/badge/🌐_Try_Tools-06B6D4?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=06B6D4" alt="Visit FlexiPDF" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0e0e12 0%, #1a1a2e 35%, #2d1b69 80%, #4a2c8a 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
+      <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🎤 InterPrep</h3>
+      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;"><strong>AI-Powered Interview Practice</strong> — Conduct realistic mock interviews with our advanced VAPI agent for comprehensive preparation.</p>
+      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">
+        <span style="color: #A020F0;">🤖 Features:</span> Voice-based interviews, real-time feedback, and personalized coaching.
+      </p>
+      <p align="center" style="margin-top: 20px;">
+        <a href="https://inter-prep-wise.onrender.com/home">
+          <img src="https://img.shields.io/badge/🎯_Start_Interview-F59E0B?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=F59E0B" alt="Start InterPrep" />
+        </a>
+      </p>
+    </td>
+    <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0e0e12 0%, #1a1a2e 35%, #2d1b69 80%, #4a2c8a 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
+      <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🖼️ EraseBG</h3>
+      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;"><strong>Advanced Background Removal</strong> — Remove backgrounds instantly and blend images seamlessly with professional-grade AI technology.</p>
+      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">
+        <span style="color: #A020F0;">✨ Capabilities:</span> Smart background removal, image mixing, and professional editing tools.
+      </p>
+      <p align="center" style="margin-top: 20px;">
+        <a href="https://erasebg-3m4s.onrender.com">
+          <img src="https://img.shields.io/badge/🎨_Edit_Images-EF4444?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=EF4444" alt="Try EraseBG" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
+
+</div>
+
+---
+
+<div align="center">
+  <p style="color: #A020F0; font-size: 1.1em; margin-top: 30px;">
+    <strong>🚀 Crafted with passion by Krish Mhatre</strong>
+  </p>
+  <p style="color: #bbb; font-size: 0.9em;">
+    Explore more projects and connect with me across the web
+  </p>
+</div>
+
 
 <div align="center">
 
