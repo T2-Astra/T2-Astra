@@ -3,7 +3,6 @@
 
 <p align="center"><i>“While others debug ‘Hello World’, I’m busy rewriting the rules of logic — one flawless script at a time.”</i></p>
 <img align="right" alt="Coding" width="340" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-- 🔭 I’m currently working on :)
 
 - 🌱 I’m currently learning **AI/ML**
   
