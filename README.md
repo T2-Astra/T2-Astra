@@ -59,7 +59,7 @@
       <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Showcasing my projects, skills, and creative work — where <strong>code meets design</strong>.</p>
       <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">Visit my portfolio: T2-Astra.is-a.dev — AI/ML projects & skills by Krish Mhatre.</p>
       <p align="center" style="margin-top: 20px;">
-        <a href="https://t2-astra.is-a.dev/">
+        <a href="#">
           <img src="https://img.shields.io/badge/🔗_View_Portfolio-FFD23F?style=for-the-badge&logoColor=black&labelColor=1a1a2e&color=FFD23F" alt="Explore Portfolio" />
         </a>
       </p>
