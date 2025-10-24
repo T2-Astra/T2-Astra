@@ -78,19 +78,7 @@
         </a>
       </p>
     </td>
-<tr>
-    <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0e0e12 0%, #1a1a2e 30%, #16213e 70%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-      <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">More Project comming soon....</h3>
-      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;"><strong></p>
-      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">
-        <span style="color: #A020F0;">✨
-      </p>
-      <p align="center" style="margin-top: 20px;">
-        <a href="#">
-          <img src="https://img.shields.io/badge/🌐_Launch_App-8B5CF6?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=8B5CF6" alt="Let Me Cook" />
-        </a>
-      </p>
-    </td>
+
 </table>
 
 </div>
