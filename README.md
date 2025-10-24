@@ -78,49 +78,7 @@
         </a>
       </p>
     </td>
-    <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0e0e12 0%, #1a1a2e 30%, #16213e 70%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-      <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🧾 FlexiPDF</h3>
-      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;"><strong>Professional PDF Tools</strong> — Convert images to PDF and compress files with precision. Built for professionals who demand quality and efficiency.</p>
-      <div style="margin: 15px 0; text-align: left; display: inline-block;">
-        <p style="color: #bbb; font-size: 0.95em; margin: 5px 0;">
-          <span style="color: #A020F0;">🖼️</span> Image to PDF Converter<br>
-          <span style="color: #A020F0;">📄</span> PDF Compressor<br>
-          <span style="color: #A020F0;">🧩</span> PDF to PNG Converter
-        </p>
-      </div>
-      <p align="center" style="margin-top: 20px;">
-        <a href="https://flexipdf-m7e1.onrender.com/">
-          <img src="https://img.shields.io/badge/🌐_Try_Tools-06B6D4?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=06B6D4" alt="Visit FlexiPDF" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0e0e12 0%, #1a1a2e 35%, #2d1b69 80%, #4a2c8a 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-      <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🎤 InterPrep</h3>
-      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;"><strong>AI-Powered Interview Practice</strong> — Conduct realistic mock interviews with our advanced VAPI agent for comprehensive preparation.</p>
-      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">
-        <span style="color: #A020F0;">🤖 Features:</span> Voice-based interviews, real-time feedback, and personalized coaching.
-      </p>
-      <p align="center" style="margin-top: 20px;">
-        <a href="https://inter-prep-wise.onrender.com/home">
-          <img src="https://img.shields.io/badge/🎯_Start_Interview-F59E0B?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=F59E0B" alt="Start InterPrep" />
-        </a>
-      </p>
-    </td>
-    <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0e0e12 0%, #1a1a2e 35%, #2d1b69 80%, #4a2c8a 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-      <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🖼️ EraseBG</h3>
-      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;"><strong>Advanced Background Removal</strong> — Remove backgrounds instantly and blend images seamlessly with professional-grade AI technology.</p>
-      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">
-        <span style="color: #A020F0;">✨ Capabilities:</span> Smart background removal, image mixing, and professional editing tools.
-      </p>
-      <p align="center" style="margin-top: 20px;">
-        <a href="https://erasebg-3m4s.onrender.com">
-          <img src="https://img.shields.io/badge/🎨_Edit_Images-EF4444?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=EF4444" alt="Try EraseBG" />
-        </a>
-      </p>
-    </td>
-  </tr>
+
 </table>
 
 </div>
