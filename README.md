@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
   
-- 💬 Ask me about **AI/ML, Python (Model Training & Testing, Flask ,TensorFlow, PyTorch)**
+- 💬 **Building tools that solve real problems and make life easier**
   
 - 📫 Reach me at **KrishMhatre34@gmail.com**
   
