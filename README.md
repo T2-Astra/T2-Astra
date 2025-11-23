@@ -204,7 +204,7 @@
 
   <!-- 🔹 Profile Views Counter -->
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=T2-Astra&label=Profile%20Views&color=7DF9FF&style=for-the-badge" alt="Profile Views" />
+  
 
   <!-- 🏆 GitHub Trophies -->
   <br><br>
