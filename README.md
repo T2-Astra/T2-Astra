@@ -57,9 +57,9 @@
     <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: radial-gradient(circle at top left, #0e0e12 0%, #1a1a2e 50%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
       <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🌟 My Portfolio</h3>
       <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Showcasing my projects, skills, and creative work — where <strong>code meets design</strong>.</p>
-      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">Visit my portfolio: T2-Astra.is-a.dev — AI/ML projects & skills by Krish Mhatre.</p>
+      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">Visit my portfolio — AI/ML projects & skills by Krish Mhatre.</p>
       <p align="center" style="margin-top: 20px;">
-        <a href="#">
+        <a href="https://otisium.vercel.app/">
           <img src="https://img.shields.io/badge/🔗_View_Portfolio-FFD23F?style=for-the-badge&logoColor=black&labelColor=1a1a2e&color=FFD23F" alt="Explore Portfolio" />
         </a>
       </p>
@@ -80,7 +80,7 @@
     </td>
  <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0e0e12 0%, #2d1b69 30%, #1a1a2e 70%, #16213e 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
       <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🔄 Language Converter</h3>
-      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Convert code between <strong>any programming languages</strong> instantly — seamless translation for developers.</p>
+      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Convert code between <strong>any programming languages</strong> instantly — seamless translation for developers(Open Source Project)</p>
       <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">
         <span style="color: #A020F0;">⚡ Supports:</span> Python, JavaScript, Java, C++, Go, Rust, and many more.
       </p>
