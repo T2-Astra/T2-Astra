@@ -24,7 +24,7 @@
 <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🤖 AstraGo AI</h3>
 <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Your <strong>AI-powered development platform</strong> — multi-model chat, image generation, and full IDE.</p>
 <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> Multi-LLM comparison, code assistance, project builder & file analysis.</p>
-<p align="center" style="margin-top: 20px;"><a href="https://www.astrago-ai.dedyn.io/"><img src="https://img.shields.io/badge/🚀_Launch_Platform-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="Launch AstraGo AI" /></a></p>
+<p align="center" style="margin-top: 20px;"><a href="https://astrago-ai.dedyn.io/"><img src="https://img.shields.io/badge/🚀_Launch_Platform-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="Launch AstraGo AI" /></a></p>
 </td>
 <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 50%, #16213e 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
 <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">📧 1TimeMail</h3>
