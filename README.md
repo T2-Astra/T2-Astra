@@ -66,7 +66,7 @@
 <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">📄 FlexoPDF</h3>
 <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;"><strong>Smart file tools made easy.</strong> Convert, compress, edit, and secure your PDFs and images in seconds — fast, free, and no signup required!</p>
 <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⭐ Supports:</span> PDF, JPG, PNG, DOCX, XLSX, PPTX, WEBP, and more.</p>
-<p align="center" style="margin-top: 20px;"><a href="https://flexopdf.zeabur.app/"><img src="https://img.shields.io/badge/🌐_Launch_App-A855F7?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=A855F7" alt="Visit FlexoPDF" /></a></p>
+<p align="center" style="margin-top: 20px;"><a href="https://flexopdf.dedyn.io/"><img src="https://img.shields.io/badge/🌐_Launch_App-A855F7?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=A855F7" alt="Visit FlexoPDF" /></a></p>
 </td>
 <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0e0e12 0%, #2d1b69 30%, #1a1a2e 70%, #16213e 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
 <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">⚙️ Language Converter</h3>
@@ -175,15 +175,15 @@
 ## 📊 GitHub Stats
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=T2-Astra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&hide=issues" alt="Krish's GitHub stats" />
+[![T2-Astra's GitHub stats](https://github-readme-stats.vercel.app/api?username=T2-Astra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T2-Astra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T2-Astra&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=T2-Astra&theme=tokyo-night&hide_border=true" alt="Krish's Activity Graph" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=T2-Astra&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
   <!-- 🔹 Profile Views Counter -->
   <br><br>
@@ -191,7 +191,7 @@
 
   <!-- 🏆 GitHub Trophies -->
   <br><br>
- <img src="https://github-profile-trophy.vercel.app/?username=T2-Astra&theme=matrix&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=T2-Astra&theme=matrix&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
