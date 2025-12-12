@@ -38,7 +38,7 @@
 <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🔍 Text Extractor AI</h3>
 <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Transform documents, images & PDFs into <strong>editable text</strong> instantly with advanced AI.</p>
 <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Supports:</span> PDF, JPG, PNG | Handwriting & multi-language recognition.</p>
-<p align="center" style="margin-top: 20px;"><a href="https://testextractor-5uez.onrender.com"><img src="https://img.shields.io/badge/🔗_Try_Now-3B82F6?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=3B82F6" alt="Try Text Extractor AI" /></a></p>
+<p align="center" style="margin-top: 20px;"><a href="https://www.textextractor.dedyn.io/"><img src="https://img.shields.io/badge/🔗_Try_Now-3B82F6?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=3B82F6" alt="Try Text Extractor AI" /></a></p>
 </td>
 <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 50%, #16213e 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
 <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">💳 UpiLink-Generator</h3>
