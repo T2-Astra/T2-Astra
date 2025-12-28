@@ -69,10 +69,10 @@
 <p align="center" style="margin-top: 20px;"><a href="https://flexopdf.dedyn.io/"><img src="https://img.shields.io/badge/🌐_Launch_App-A855F7?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=A855F7" alt="Visit FlexoPDF" /></a></p>
 </td>
 <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0e0e12 0%, #2d1b69 30%, #1a1a2e 70%, #16213e 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">⚙️ Language Converter</h3>
-<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Convert code between <strong>any programming languages</strong> instantly — seamless translation for developers (Open Source Project)</p>
-<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Supports:</span> Python, JavaScript, Java, C++, Go, Rust, and many more.</p>
-<p align="center" style="margin-top: 20px;"><a href="https://languageconverter.onrender.com/"><img src="https://img.shields.io/badge/🔗_Try_Now-0EA5E9?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=0EA5E9" alt="Visit Language Converter" /></a></p>
+<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🎤 VOX AI Voice Intelligence</h3>
+<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Advanced <strong>voice AI platform</strong> for real-time speech processing, intelligent voice interactions, and seamless automation — powered by cutting-edge voice intelligence technology.</p>
+<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> Real-time voice recognition, AI-driven responses, speech analytics, automation & voice-to-AI workflows.</p>
+<p align="center" style="margin-top: 20px;"><a href="https://voxai.dedyn.io/"><img src="https://img.shields.io/badge/🔗_Visit_VOX_AI-0EA5E9?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=0EA5E9" alt="Visit VOX AI Voice Intelligence" /></a></p>
 </td>
 </tr>
 </table>
