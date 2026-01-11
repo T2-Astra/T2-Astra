@@ -189,29 +189,22 @@
 ![Snake animation](https://raw.githubusercontent.com/T2-Astra/T2-Astra/output/snake.svg)
 
 ## 📊 GitHub Stats
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-[![T2-Astra's GitHub stats](https://github-readme-stats.vercel.app/api?username=T2-Astra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T2-Astra&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=T2-Astra&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-stats.vercel.app/api?username=T2-Astra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="T2-Astra's GitHub stats" />
 
-  <!-- 🔹 Profile Views Counter -->
-  <br><br>
-  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T2-Astra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" />
 
-  <!-- 🏆 GitHub Trophies -->
-  <br><br>
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=T2-Astra&theme=matrix&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=T2-Astra&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=T2-Astra&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=T2-Astra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
 
