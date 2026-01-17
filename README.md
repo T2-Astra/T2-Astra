@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://rishavchanda.io)
 <h1 align="center">🌌 Greetings, Earthlings! Meet T2-Astra 👨🏻‍🚀💻</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center"><i>“While others debug ‘Hello World’, I’m busy rewriting the rules of logic — one flawless script at a time.”</i></p>
@@ -192,15 +192,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=T2-Astra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="T2-Astra's GitHub stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T2-Astra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=T2-Astra&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=T2-Astra&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=T2-Astra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
 
 </div>
 
